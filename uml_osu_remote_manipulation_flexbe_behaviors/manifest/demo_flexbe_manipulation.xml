@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="demo_flexbe_manipulation">
+
+	<executable package_path="uml_osu_remote_manipulation_flexbe_behaviors.demo_flexbe_manipulation_sm" class="demo_flexbe_manipulationSM" />
+	<tagstring>manipulation</tagstring>
+	<author>Brian Flynn</author>
+	<date>Wed Jul 29 2020</date>
+	<description>
+		Simple FlexBE manipulation behavior to demonstrate functionality of system
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
